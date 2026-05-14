@@ -28,12 +28,6 @@ vocales = 0
 consonantes = 0
 mayusculas = 0
 minusculas = 0
-aVeces = 0
-eVeces = 0
-iVeces = 0
-oVeces = 0
-uVeces = 0
-palindromo = False
 
 fraseString = input("Introduce una frase: ")
 fraseList = list(fraseString)
