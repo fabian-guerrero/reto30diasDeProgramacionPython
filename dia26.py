@@ -1,4 +1,4 @@
-personajes = [{'nombre': 'a1', 'vida': 3, 'ataque': 2, 'defensa': 1}, {'nombre': 'a3', 'vida': 4, 'ataque': 6, 'defensa': 5}, {'nombre': 'a2', 'vida': 7, 'ataque': 4, 'defensa': 1}]
+personajes = []
 indice = 0
 personajeEncontrado = False
 
