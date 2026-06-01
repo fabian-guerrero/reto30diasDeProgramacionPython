@@ -16,6 +16,8 @@ def menu_opciones():
     opcion = int(input("Introduce una opcion: "))
     return opcion
 
+opcion = menu_opciones()
+
 while opcion != 4:
     if opcion == 1:
         nombre = input("Introduce el nombre del personaje: ")
